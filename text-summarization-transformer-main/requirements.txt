@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+datasets
+evaluate
+rouge-score
+sumy
+nltk
+sentencepiece
